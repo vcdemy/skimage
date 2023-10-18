@@ -10,7 +10,7 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vcdemy/skimage/)
 
-### 1. 文件導覽
+### 相關連結
 
 * [skimage 文件](https://scikit-image.org/)
 
@@ -18,12 +18,12 @@
 
 > scikit-image is a collection of algorithms for image processing.
 
-### 2. 實作引導
+### 課程大綱
 
-
-
-### 3. 自我挑戰
-
-* 
-
-
+* 讀取圖片
+* 顯示圖片
+* 儲存圖片
+* 讀取內建圖檔
+* 色彩空間轉換
+* Transform
+* Filtering
